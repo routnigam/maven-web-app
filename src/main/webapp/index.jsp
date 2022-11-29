@@ -1,9 +1,9 @@
 <html>
 <body>
-<h1><font color='green'>Welcome to Nigam Star communication - Best Software Training Institute in India <font></h1>
-<h2>location - NAYAGARH </h2>
+<h1><font color='red'>Welcome to Ashok IT - Best Software Training Institute in India <font></h1>
+<h2>Learn Here.. Lead Anywhere..!! </h2>
 
-<a href="http://103.42.125.214/Franchise/lcostats.aspx">Click Here To See Nigam Star communication web pages </a>
+<a href="https://ashokitech.com/online-training-schedules">Click Here To See Ashok IT Training Schedules</a>
 
 </body>
 </html>
